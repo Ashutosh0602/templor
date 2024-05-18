@@ -1,3 +1,5 @@
+![template](https://github.com/Ashutosh0602/templor/assets/85889617/813c8373-7c8d-47c8-83a7-f277127bc8d4)
+
 # Templor
 
 Templor is a robust and flexible tool designed to simplify the setup and deployment of web projects. It provides a wide range of optional configurations, including TypeScript/JavaScript, SCSS/CSS, and TailwindCSS, allowing you to tailor your project to your specific needs. With Templor, you can get your project up and running quickly and deploy it with a single terminal command.
